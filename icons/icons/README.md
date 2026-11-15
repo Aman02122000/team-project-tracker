@@ -1,0 +1,1 @@
+Team Tracker application icons
